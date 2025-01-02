@@ -1,32 +1,32 @@
 ---
-title: Making this Website
-date: 2025-01-01 6:38:00 -500
-categories: [Programming, Website Development]
-tags: [website,development,programming,jekyll,chirpy]
+title: Making This Website
+date: 2025-01-01 7:00:00 -500
+categories: [programming, website development]
+tags: [programming,development,website]
 ---
 
-# My First Post
+# Making this website
 
-guys idk what to write lalalalal
+idk what to say lalala
 
 * a
-
 * b
-
 * c
 
-* d
+this is cool
 
-### python is awesome
+```
+so i can write in this box
+```
 
-no one can argue with me on this
+and do this...
+python is the best
 
 ```python
 print("hello world")
 ```
 
-nice!
-
+and this...
 ```python
 input_words = ["bat", "tab", "tap", "pat", "cat", "act", "rat", "tar", "art"]
 
@@ -47,4 +47,5 @@ def group_anagrams(words):
 
 print(group_anagrams(input_words))
 ```
-nice!
+
+dang thats cool!
