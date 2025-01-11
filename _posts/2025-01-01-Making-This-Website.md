@@ -41,7 +41,7 @@ Adjusting several things in here, including adding my name, email, and an avatar
 
 ### Making the First Post
 
-It was know time to do what this website was for, which is to document my adventures in programming. I began by adding a new markdown file to the _posts folder. I then made a new folder in my assets folder, for all the photos I planned to use. I followed Chirpy's format for making the title, tags, and other preliminary things. Then I started documenting what I had done!
+It was now time to do what this website was for, which is to document my adventures in programming. I began by adding a new markdown file to the _posts folder. I then made a new folder in my assets folder, for all the photos I planned to use. I followed Chirpy's format for making the title, tags, and other preliminary things. Then I started documenting what I had done!
 
 ![screenshot_of_post_1](assets/posts/2025-01-01Making-This-Website/screenshot_of_post_1.png)
 _A screenshot of the markdown file for the first post_
