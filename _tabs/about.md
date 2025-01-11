@@ -19,4 +19,3 @@ Some intrests of mine in the field of programming are:
 * Game development
 
 Throughout my time programming, I have taken on different challenges to help further my knowledge about these topics. I also have many projects planned for the future, which I plan to document here!
-
