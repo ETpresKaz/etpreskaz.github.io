@@ -1,6 +1,7 @@
 ---
 title: My Sudoku Solver
 date: 2025-01-21 7:00:00 -500
+math: true
 categories: [python programming, algorithmic problem solving]
 tags: [python programming,backtracking,data validation,logic puzzles]
 ---
