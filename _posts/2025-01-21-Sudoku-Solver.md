@@ -24,9 +24,9 @@ After concidering several options, I decided a backtracking algorithm would do t
 ## Backtracking and Pruning
 
 The approach for Sudoku is very similar. At the first unknown nuumber, the algorith would choose a number, then at the next one, it would choose another number. This would continue until that path is exhausted. Then the algorith would back up one desicion, and choose a different number. Then, once the board reached a solved state, it would break and return the solved board. The one issue with this seemingly briliant plan is that because of the nature of this type of algorithm, the time to go through all the posibilities until a solved state is reached grows exponentially. And Sudoku has a lot of different end states. The total number of states that would have to be checked is around 
-$
+$$
 9^{81} \approx 2.96 \times 10^{77}
-$
+$$
 possibilities. That an astronomically large number, and complete unrealistic. Luckily there is a method for dealing with this very problem. The answer is pruning. Pruning is were the algorith has some way for determining which solutions could be ruled out imediatly, so that they and everything that follows is not concidered. In this instance, the method for pruning wuld be the rules of Sudoku. If the possible number broke any rule, it would be disregarded for that desicion. With this pruning, the posible states were cut down to millions or billions, much more manageable from a time perspective.
 
 ## Recursive Functions
